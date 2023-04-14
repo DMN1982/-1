@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\obj\Debug\net7.0\Zadacha6.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\obj\Debug\net7.0\Zadacha6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\obj\Debug\net7.0\Zadacha6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\obj\Debug\net7.0\Zadacha6.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\obj\Debug\net7.0\Zadacha6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\bin\Debug\net7.0\Zadacha6.exe
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\bin\Debug\net7.0\Zadacha6.deps.json
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\bin\Debug\net7.0\Zadacha6.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\bin\Debug\net7.0\Zadacha6.dll
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\bin\Debug\net7.0\Zadacha6.pdb
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\obj\Debug\net7.0\Zadacha6.dll
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\obj\Debug\net7.0\refint\Zadacha6.dll
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\obj\Debug\net7.0\Zadacha6.pdb
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\obj\Debug\net7.0\Zadacha6.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GB\Знакомство с языками программирования\1 урок\DZ1\Zadacha6\obj\Debug\net7.0\ref\Zadacha6.dll
